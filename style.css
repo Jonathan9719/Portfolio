@@ -1,0 +1,28 @@
+/* Style the body */
+body {
+    /* background-color: powderblue; */
+    background-image: url('https://cdn.create.vista.com/api/media/medium/176004044/stock-photo-top-view-programmer-laptop-modern?token=');
+    background-size: cover;
+}
+
+/* Style the navigation menu */
+nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 50;
+}
+
+button {
+    background-color: #555555;
+    font-size: medium;
+}
+
+h1 {
+    color: #e2feea;
+}
+
+p {
+      /* background-image: "desk.jpg"; */
+    color: red;
+}
